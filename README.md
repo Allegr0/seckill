@@ -1,6 +1,6 @@
 # seckill
 一个基于SSM框架的高并发秒杀系统  
-采用IDEA+Maven+SSM+Mysql+jetty开发
+采用IDEA+Maven+SSM+Mysql+Redis+Jetty、Bootstrap/Jquery开发
 # Quick Start  
 1.把项目clone到本地。  
 2.从IDEA的pom.xml打开项目。  
